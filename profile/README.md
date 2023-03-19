@@ -8,3 +8,7 @@
 <p align="center">The OPEN LIFE GitHub organization is an open-source community dedicated to creating and promoting projects that aim to improve people's lives. The organization is committed to building a better world through technology and collaboration, and it welcomes anyone who shares this vision to join its efforts.
 </p>
 
+## Where to contribute? 
+
+- We have a project [GitOpener](https://github.com/pbclife/gitopener.vercel.app) you can contribute there.
+- You can report bugs, features here.
