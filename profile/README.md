@@ -11,7 +11,6 @@
 ## Where to contribute? 
 
 - We have a project [GitOpener](https://github.com/pbclife/gitopener.vercel.app) you can contribute there.
-- You can report bugs, features here.
 
 > If you don't feel ready to make a technical contribution yet, no problem at all. You can also contribute to this project by
 
